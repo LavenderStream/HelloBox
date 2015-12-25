@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-desgin\HelloBox\build\intermediates\exploded-aar\HelloBox\DanmakuFlameMaster\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8a5eee16ad29f9fcee2771b08621e86be4ecd58e">
+        <dex dex="D:\android-desgin\HelloBox\build\intermediates\pre-dexed\debug\classes-ed160d574cd1932cf47ccbf899f36b9b0b3aa90d.jar" />
+    </item>
+    <item
+        jar="D:\android-desgin\HelloBox\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9b6a9a9078af571732159b904ad423b03b7cc786">
+        <dex dex="D:\android-desgin\HelloBox\build\intermediates\pre-dexed\debug\android-support-v4-81eff3642594322ebf5013c55ed5a4b8ddd21c4a.jar" />
+    </item>
+
+</items>

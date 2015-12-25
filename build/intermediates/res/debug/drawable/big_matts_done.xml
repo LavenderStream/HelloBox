@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >  
+  
+    <solid android:color="#ff3ad543" />
+    <!-- 边框 -->  
+    <stroke  
+        android:width="3px"  
+        android:color="#00000000" />  
+    <!-- 圆角 -->  
+    <corners android:radius="8px" /> 
+    <!-- 边距 -->  
+    <padding  
+        android:bottom="7px"  
+        android:left="7px"  
+        android:right="7px"  
+        android:top="7px" />  
+  
+</shape>  <!-- From: file:/D:/android-desgin/HelloBox/res/drawable/big_matts_done.xml -->
